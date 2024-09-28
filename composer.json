@@ -19,7 +19,7 @@
         "cmgmyr/messenger": "^2.13",
         "stechstudio/laravel-raw-sessions": "^0.1.3",
         "torann/laravel-meta-tags": "^3.0",
-        "rap2hpoutre/laravel-log-viewer": "^0.8.0",
+        "rap2hpoutre/laravel-log-viewer": "^0.13.0",
         "intervention/image": "2.3.7",
         "intervention/imagecache": "2.3.3",
         "symfony/process": "2.8.*",
